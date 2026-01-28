@@ -3,8 +3,5 @@
 !.gitignore
 !.zshrc
 
-.config
-
-!.config/starship.toml
-!.config/ghostty
-!.config/nvim
+!.config
+!.config/.gitignore
