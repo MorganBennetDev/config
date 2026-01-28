@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!.zshrc
+
+.config
+
+!.config/starship.toml
+!.config/ghostty
+!.config/nvim
