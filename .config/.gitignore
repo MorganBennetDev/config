@@ -2,3 +2,5 @@
 !nvim/.gitignore
 !ghostty
 !ghostty/config
+!nvim
+!nvim/**/*
