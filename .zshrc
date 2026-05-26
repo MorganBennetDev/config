@@ -123,3 +123,6 @@ fi
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 eval "$(starship init zsh)"
+
+# sentry
+fpath=("/home/morganb/.local/share/zsh/site-functions" $fpath)
